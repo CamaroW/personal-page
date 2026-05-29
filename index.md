@@ -12,3 +12,5 @@ Since **one** goal is to
 > Learn how to use markdown
 
 I added these markdown formats to this `index.md` file.
+
+Just showing a beautiful ![sunset glow](./sunset_glow.png) at UCSD
