@@ -13,4 +13,6 @@ Since **one** goal is to
 
 I added these markdown formats to this `index.md` file.
 
-Just showing a beautiful ![sunset glow](./sunset_glow.png) at UCSD
+Just showing a beautiful sunset glow at UCSD:
+
+![sunset glow](./sunset_glow.png)
